@@ -1,0 +1,5 @@
+-1: Van lőszer mindkét storeban és úgy próbálunk mindennel tüzelni
+-2: Van lőszer mindkét storeban és úgy próbálnuk csak eggyel tüzelni
+-3: Nincs egyikben sem lőszer és úgy próbálnuk mindennel tüzelni
+-4: Nincs egyikben sem lőszer és úgy próbálnuk csak eggyel tüzelni
+-5: Csak a másodlagosban van egy lőszer és úgy próbálunk mindennel tüzelni
